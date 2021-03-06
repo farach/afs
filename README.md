@@ -1,5 +1,5 @@
-# afs
-AFS work
-A line I wrote on my local computer
+# AFS Data Science Social Logo
 
-This is a line from RStudio
+A logo and gif I created for a data science community I created and run at AFS.
+
+![](./dss_logo.gif)
